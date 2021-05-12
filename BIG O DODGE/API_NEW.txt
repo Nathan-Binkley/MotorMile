@@ -1,0 +1,5 @@
+INVENTORY:
+https://www.bigododge.com/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_NEW:inventory-data-bus1/getInventory?start=###
+
+FACETS:
+https://www.bigododge.com/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_NEW:inventory-data-bus1/getFacets?start=###

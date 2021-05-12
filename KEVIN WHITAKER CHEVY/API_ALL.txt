@@ -1,0 +1,6 @@
+Inventory:
+https://www.kevinwhitaker.net/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_ALL:inventory-data-bus1/getInventory?start=###
+
+Facets:
+https://www.kevinwhitaker.net/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_ALL:inventory-data-bus1/getFacets?start=###
+

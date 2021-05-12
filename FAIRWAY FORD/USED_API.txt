@@ -1,0 +1,5 @@
+Inventory: https://www.fairwayford.com/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_ALL:inventory-data-bus1/getInventory?start=##
+
+Analytics: https://www.fairwayford.com/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_ALL:inventory-data-bus1/getFacets?start=##
+
+default has no "start" param

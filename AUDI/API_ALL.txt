@@ -1,0 +1,5 @@
+INVENTORY:
+https://www.audigreenville.com/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_ALL:inventory-data-bus1/getInventory?start=###
+
+FACETS:
+https://www.audigreenville.com/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_ALL:inventory-data-bus1/getFacets?start=###
