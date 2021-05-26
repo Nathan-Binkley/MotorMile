@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <title>Test Page</title>
+    <body>
+        <ol>
+        {% for car in audi %}
+            <li>{{''.join(car['title'])}}, {{car['condition']}}, {{car['pricing']['retailPrice']}}, <a target='_blank' href="https://stevewhitevwaudi.com{{car['link']}}">Purchase Here</a><br>
+            <img src="{{car['images'][0]['uri']}}" width=200px></li>
+            <br>
+        {% endfor %}
+        </ol>
+    </body>
+</html>
